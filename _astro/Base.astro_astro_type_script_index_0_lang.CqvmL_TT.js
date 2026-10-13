@@ -1,0 +1,1 @@
+import"./favorites.BK4JwAXK.js";`serviceWorker`in navigator&&navigator.serviceWorker.register(`${`/`.replace(/\/?$/,`/`)}sw.js`).catch(()=>{});
