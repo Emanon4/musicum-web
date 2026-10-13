@@ -1,0 +1,1 @@
+import"./favorites.BK4JwAXK.js";
