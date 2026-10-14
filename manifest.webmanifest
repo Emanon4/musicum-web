@@ -1,7 +1,7 @@
 {
   "name": "Musicum",
   "short_name": "Musicum",
-  "description": "在线收听 Musicum 的 AI 生成专辑，附歌词与中文对照。",
+  "description": "在线收听 Musicum 的专辑，附歌词与中文对照。",
   "lang": "zh-CN",
   "id": "./",
   "start_url": "./?source=home-screen",
