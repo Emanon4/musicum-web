@@ -1,1 +1,0 @@
-import"./favorites.CRU0U84n.js";import{i as e,t}from"./i18n.BDtBomhh.js";document.addEventListener(`astro:page-load`,()=>t()),document.addEventListener(`click`,t=>{let n=t.target.closest(`[data-set-ui]`);n&&e(n.dataset.setUi)}),`serviceWorker`in navigator&&navigator.serviceWorker.register(`${`/`.replace(/\/?$/,`/`)}sw.js`).catch(()=>{});
